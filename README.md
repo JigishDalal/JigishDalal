@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=220&section=header&text=Hey%20There!%20I'm%20Jigish%20Dalal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Android%20Specialist%20|%20AI-Powered%20Mobile%20Innovation&descAlignY=58&descSize=18" />
+
+<a href="https://jigishdalal.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%40+Sunflower+Lab;Flutter+%26+Android+Developer;Building+Beautiful%2C+Native-Feel+Apps;AI-Powered+Mobile+Innovation+%F0%9F%9A%80" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jigishdalal.vercel.app-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://jigishdalal.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jigish--dalal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigish-dalal)
+[![Location](https://img.shields.io/badge/Vadodara-India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
 
 ### 🎯 About Me
 
